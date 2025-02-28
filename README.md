@@ -29,7 +29,7 @@ Currently, I'm expanding my skill set by diving into the world of data analytics
 
 Here are some of my Valuable projects:
  ### Project 1: 
-[![E-Commerce Sales Analytics](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjD2z0clJA_2AgdBiXpBokTWwr0hcryTes7Q&s)](E-Commerce-Analytics-python)
+[![E-Commerce Sales Analytics](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjD2z0clJA_2AgdBiXpBokTWwr0hcryTes7Q&s)]([E-Commerce-Analytics-python](https://github.com/LogicCraftByHimanshi/E-Commerce-Analytics-python))
 
 This project analyzes e-commerce performance across Swiggy, Blinkit, and Jiomart using Power BI for visualization and Python (Jupyter Notebook) for data preprocessing and analysis. Key insights include order trends, customer behavior, and service quality to optimize business strategies.
 
@@ -55,17 +55,7 @@ This Repository analyzes Helpdesk performance using Excel and Power BI, evaluati
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)   
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Statistics](https://img.shields.io/badge/Statistics-00A86B?style=for-the-badge)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Statistics](https://img.shields.io/badge/Statistics-00A86B?style=for-the-badge)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
 ---
 
