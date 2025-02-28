@@ -28,8 +28,10 @@ Currently, I'm expanding my skill set by diving into the world of data analytics
  ## Projects
 
 Here are some of my Valuable projects:
- ### Project 1: 
-[![E-Commerce Sales Analytics](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjD2z0clJA_2AgdBiXpBokTWwr0hcryTes7Q&s)]([E-Commerce-Analytics-python](https://github.com/LogicCraftByHimanshi/E-Commerce-Analytics-python))
+
+### Project 1:  
+[![E-Commerce Sales Analytics](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjD2z0clJA_2AgdBiXpBokTWwr0hcryTes7Q&s)](https://github.com/LogicCraftByHimanshi/E-Commerce-Analytics-python)
+
 
 This project analyzes e-commerce performance across Swiggy, Blinkit, and Jiomart using Power BI for visualization and Python (Jupyter Notebook) for data preprocessing and analysis. Key insights include order trends, customer behavior, and service quality to optimize business strategies.
 
