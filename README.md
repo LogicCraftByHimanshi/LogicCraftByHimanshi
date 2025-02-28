@@ -39,7 +39,7 @@ This project analyzes e-commerce performance across Swiggy, Blinkit, and Jiomart
 
 ### Project 2: Pizza Sales Analysis
 [![Pizza Sales Analysis](https://i.pinimg.com/736x/cb/59/88/cb5988d90f0b7e916420b522029060f6.jpg)
-](Pizza_sales_Dashboard)
+](https://github.com/LogicCraftByHimanshi/Pizza_sales_Dashboard)
 
 This project analyzes the Pizza Sales dataset using Excel and Power BI, exploring trends in sales, revenue, and customer preferences through data cleaning, statistical analysis, and visualizations.
 
@@ -47,7 +47,7 @@ This project analyzes the Pizza Sales dataset using Excel and Power BI, explorin
 
 ### Project 3: Helpdesk-Performance-Dashboard
 [![Helpdesk Performance Analysis](https://i.pinimg.com/736x/88/a7/d1/88a7d149da3c51a5c2de174df66a040a.jpg
-)](Helpdesk-Performance-Dashboard)
+)]([Helpdesk-Performance-Dashboard](https://github.com/LogicCraftByHimanshi/Helpdesk-Performance-Dashboard))
 
 This Repository analyzes Helpdesk performance using Excel and Power BI, evaluating key metrics such as response time, resolution rate, and customer satisfaction through data cleaning, statistical analysis, and interactive visualizations.
 
