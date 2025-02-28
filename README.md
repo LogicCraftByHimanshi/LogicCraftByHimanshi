@@ -2,11 +2,13 @@
 <img src="https://i.pinimg.com/originals/04/39/e3/0439e360abdefd5b1ac3d9c0900835eb.jpg" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">👋 Hi, I'm Himanshi!
 
-I'm a web developer with a passion for creating dynamic and user-friendly websites. Currently, I'm expanding my skill set by diving into the world of data analytics, combining my love for development with a new understanding of data-driven decision-making.
+Currently, I'm expanding my skill set by diving into the world of data analytics, leveraging data-driven insights to make informed decisions and uncover meaningful trends.
+
 </div>  
+
+## About me :
   
 
 -🌱 Currently, I'm expanding my knowledge in Python and exploring new horizons in data analytics.  
@@ -15,7 +17,7 @@ I'm a web developer with a passion for creating dynamic and user-friendly websit
   - 👩‍💻 I’m currently learning Numpy, pandas. 
   
 
-- 💬  Feel free to ask me about data analytics, web development, or anything tech-related!  
+- 💬  Feel free to ask me about data analytics, or anything tech-related!  
   
 
 - ⚡ Fun fact: I'm constantly exploring the intersection of creativity and technology!  
@@ -23,56 +25,54 @@ I'm a web developer with a passion for creating dynamic and user-friendly websit
 
 <br/>  
 
+ ## Projects
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+Here are some of my Valuable projects:
+ ### Project 1: 
+[![E-Commerce Sales Analytics](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjD2z0clJA_2AgdBiXpBokTWwr0hcryTes7Q&s)](E-Commerce-Analytics-python)
+
+This project analyzes e-commerce performance across Swiggy, Blinkit, and Jiomart using Power BI for visualization and Python (Jupyter Notebook) for data preprocessing and analysis. Key insights include order trends, customer behavior, and service quality to optimize business strategies.
+
+---
+
+### Project 2: Pizza Sales Analysis
+[![Pizza Sales Analysis](https://i.pinimg.com/736x/cb/59/88/cb5988d90f0b7e916420b522029060f6.jpg)
+](Pizza_sales_Dashboard)
+
+This project analyzes the Pizza Sales dataset using Excel and Power BI, exploring trends in sales, revenue, and customer preferences through data cleaning, statistical analysis, and visualizations.
+
+---
+
+### Project 3: Helpdesk-Performance-Dashboard
+[![Helpdesk Performance Analysis](https://i.pinimg.com/736x/88/a7/d1/88a7d149da3c51a5c2de174df66a040a.jpg
+)](Helpdesk-Performance-Dashboard)
+
+This Repository analyzes Helpdesk performance using Excel and Power BI, evaluating key metrics such as response time, resolution rate, and customer satisfaction through data cleaning, statistical analysis, and interactive visualizations.
+
+---
+  
+## 🛠 Skills and Tools  
+
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)   
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Statistics](https://img.shields.io/badge/Statistics-00A86B?style=for-the-badge)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+
+---
+
+ 
+⭐️ **Feel free to check out my repositories and connect with me for exciting data-driven discussions!** 🚀 
 
 
-
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
