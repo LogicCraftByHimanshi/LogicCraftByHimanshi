@@ -29,7 +29,7 @@ Currently, I'm expanding my skill set by diving into the world of data analytics
 
 Here are some of my Valuable projects:
 
-### Project 1:  
+### Project 1:  E-Commerce Analytics: Swiggy Instamart, Zomato, Blinkit
 [![E-Commerce Sales Analytics](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjD2z0clJA_2AgdBiXpBokTWwr0hcryTes7Q&s)](https://github.com/LogicCraftByHimanshi/E-Commerce-Analytics-python)
 
 
