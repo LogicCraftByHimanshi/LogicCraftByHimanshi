@@ -41,9 +41,11 @@ This project analyzes e-commerce performance across Swiggy, Blinkit, and Jiomart
 This Repository analyzes Helpdesk performance using Excel and Power BI, evaluating key metrics such as response time, resolution rate, and customer satisfaction through data cleaning, statistical analysis, and interactive visualizations.
 ---
 
-### Project 3: Netflix Trends - Engagement & Retention Analysis  
+### Project 3: Netflix Trends - Engagement & Retention Analysis Using MS Excel
 [![Netflix Engagement Retention Analysis](https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940)](https://github.com/LogicCraftByHimanshi/NetflixTrends-Engagement-Retention-Analysis)
 
+This project analyzes Netflix user engagement and retention trends using MS Excel. It includes key insights on churn rate, genre preferences, device usage, and customer behavior.
+---
 
 ### Project 4: Pizza Sales Analysis
 [![Pizza Sales Analysis](https://i.pinimg.com/736x/cb/59/88/cb5988d90f0b7e916420b522029060f6.jpg)
