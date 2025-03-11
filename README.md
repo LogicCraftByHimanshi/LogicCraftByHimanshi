@@ -32,12 +32,20 @@ Here are some of my Valuable projects:
 ### Project 1:  E-Commerce Analytics: Swiggy Instamart, Zomato, Blinkit
 [![E-Commerce Sales Analytics](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjD2z0clJA_2AgdBiXpBokTWwr0hcryTes7Q&s)](https://github.com/LogicCraftByHimanshi/E-Commerce-Analytics-python)
 
-
 This project analyzes e-commerce performance across Swiggy, Blinkit, and Jiomart using Power BI for visualization and Python (Jupyter Notebook) for data preprocessing and analysis. Key insights include order trends, customer behavior, and service quality to optimize business strategies.
-
 ---
 
-### Project 2: Pizza Sales Analysis
+### Project 2: Helpdesk-Performance-Dashboard
+[![Helpdesk Performance Analysis](https://i.pinimg.com/736x/88/a7/d1/88a7d149da3c51a5c2de174df66a040a.jpg)](https://github.com/LogicCraftByHimanshi/Helpdesk-Performance-Dashboard)
+
+This Repository analyzes Helpdesk performance using Excel and Power BI, evaluating key metrics such as response time, resolution rate, and customer satisfaction through data cleaning, statistical analysis, and interactive visualizations.
+---
+
+### Project 3: Netflix Trends - Engagement & Retention Analysis  
+[![Netflix Engagement Retention Analysis](https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940)](https://github.com/LogicCraftByHimanshi/NetflixTrends-Engagement-Retention-Analysis)
+
+
+### Project 4: Pizza Sales Analysis
 [![Pizza Sales Analysis](https://i.pinimg.com/736x/cb/59/88/cb5988d90f0b7e916420b522029060f6.jpg)
 ](https://github.com/LogicCraftByHimanshi/Pizza_sales_Dashboard)
 
@@ -45,11 +53,10 @@ This project analyzes the Pizza Sales dataset using Excel and Power BI, explorin
 
 ---
 
-### Project 3: Helpdesk-Performance-Dashboard
-[![Helpdesk Performance Analysis](https://i.pinimg.com/736x/88/a7/d1/88a7d149da3c51a5c2de174df66a040a.jpg)](https://github.com/LogicCraftByHimanshi/Helpdesk-Performance-Dashboard)
 
 
-This Repository analyzes Helpdesk performance using Excel and Power BI, evaluating key metrics such as response time, resolution rate, and customer satisfaction through data cleaning, statistical analysis, and interactive visualizations.
+
+
 
 ---
   
